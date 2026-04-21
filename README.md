@@ -27,21 +27,6 @@ Currently focusing on expanding the **AI/ML** and **System Design** roadmaps by 
 
 If you are interested in collaborating on a specific roadmap proposal before we submit it upstream, feel free to open an Issue here and let's discuss!
 
----
-
-## 🏢 About Stackaura
-
-This contribution workspace is actively maintained by **Stackaura**. We are deeply invested in the open-source community and believe in empowering the next generation of engineers. We specialize in providing top-tier digital solutions, focusing on web development, premium branding, and scalable software architecture designed to elevate your business.
-
-**Ready to build something amazing?**
-> Visit us at [**Stackaura.com**](https://www.stackaura.com/) to learn more about our services and how we can help scale your next project.
-
-<div align="center">
-  <a href="https://www.stackaura.com/">
-    <img src="https://img.shields.io/badge/Visit-Stackaura-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Stackaura" />
-  </a>
-</div>
-
 
 ---
 
@@ -60,3 +45,4 @@ If you found this tool useful, check out our other high-performance web utilitie
 - **Author:** [Ahmar Hussain](https://github.com/RanaAhmar)
 
 ---
+
